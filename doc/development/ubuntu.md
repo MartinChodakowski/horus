@@ -1,4 +1,4 @@
-#Horus development in Ubuntu
+#Horus development in Ubuntu 15.10 Desktop
 
 [return to Home](../../README.md)
 
