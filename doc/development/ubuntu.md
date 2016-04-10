@@ -37,7 +37,7 @@ sudo apt-get autoremove
 ```bash
 sudo add-apt-repository ppa:bqlabs/horus
 sudo apt-get update
-sudo apt-get install python-opencv libopencv-calib3d2.4
+sudo apt-get install python-opencv libopencv-core2.4
 ```
 
 #### AVRDUDE
